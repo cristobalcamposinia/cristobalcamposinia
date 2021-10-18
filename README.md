@@ -1,4 +1,4 @@
-I'm Cristobal Campos. I worked at INIA Chile (National Institute of Agricultural Research).
+I'm Cristobal Campos. I work at INIA Chile (National Institute of Agricultural Research).
 
 My research interests include Geographic Information Science (GIS), 
 remote sensing, and environmental modeling. More specifically, 
